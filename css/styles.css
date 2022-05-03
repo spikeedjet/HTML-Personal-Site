@@ -1,9 +1,7 @@
 body {
    background-color: #EEE4AB;
  }
-img {
-  border-radius: 50%;
-}
+
 td {
    border: 1px solid #333;
  }
@@ -13,3 +11,11 @@ td {
  h3 {
    color:#99C4C8
  }
+
+
+.star{
+  background-color: grey;
+}
+.smail{
+  background-color: green;
+}
